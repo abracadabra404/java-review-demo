@@ -12,6 +12,7 @@ public class NumberUtilTest {
 
     public static void main(String[] args) {
         long toLong = NumberUtil.parseLong("123456");
+
         System.out.println(toLong);
     }
 }
